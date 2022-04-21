@@ -4,7 +4,7 @@
 * 📂 사용 데이터
   * 셀레니움을 활용하여 한국배구연맹 포털 [KOVO](https://www.kovo.co.kr/game/v-league/11141_game-summary.asp?season=017&g_part=201&r_round=1&g_num=2&) 경기 결과 크롤링
 * 🗓 기간 : 2022-04-19 ~ 2022-04-20
-* 👩‍💻 인원 : 5명 | [협업 툴 노션 사용](https://imdona.notion.site/mini-project-2-ML-0cde262f1c7e4342be54ab16a2f1b39b)
+* 👩‍💻 인원 : 5명(김한결 박서영 임민정 정유정 최유연) | [협업 툴 노션 사용](https://imdona.notion.site/mini-project-2-ML-0cde262f1c7e4342be54ab16a2f1b39b)
 
 #### 1. 데이터 전처리·분석
 * 현역 배구 선수님 인터뷰를 통한 도메인 이해
